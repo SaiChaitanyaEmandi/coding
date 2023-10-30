@@ -1,0 +1,9 @@
+{
+    "files.exclude": {
+       "**/*.exe": true
+    },
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp"
+    }
+}
